@@ -2,7 +2,8 @@
 // @name         SteamSaleHelper
 // @namespace    SSH
 // @description  Simple button Clicker
-// @version      0.05
+// @icon         https://store.steampowered.com/favicon.ico
+// @version      0.06
 // @author       DEMENT0R
 // @downloadURL  https://github.com/DEMENT0R/SteamSaleHelper/raw/master/SSH.user.js
 // @updateURL    https://github.com/DEMENT0R/SteamSaleHelper/raw/master/SSH.user.js
