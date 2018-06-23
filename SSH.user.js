@@ -3,14 +3,16 @@
 // @namespace    SSH
 // @description  Simple button Clicker
 // @icon         https://store.steampowered.com/favicon.ico
-// @version      0.07
+// @version      0.08
 // @author       DEMENT0R
 // @downloadURL  https://github.com/DEMENT0R/SteamSaleHelper/raw/master/SSH.user.js
 // @updateURL    https://github.com/DEMENT0R/SteamSaleHelper/raw/master/SSH.user.js
 // @license      GNU v3
 // @noframes
-// @match        http://store.steampowered.com/*
-// @match        https://store.steampowered.com/*
+// @match        http://store.steampowered.com/app/*
+// @match        https://store.steampowered.com/app/*
+// @match        http://store.steampowered.com/explore/*
+// @match        https://store.steampowered.com/explore/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
 // @grant        GM_addStyle
 // ==/UserScript==
