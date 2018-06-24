@@ -3,7 +3,7 @@
 // @namespace    SSH
 // @description  Simple button Clicker
 // @icon         https://store.steampowered.com/favicon.ico
-// @version      0.08
+// @version      0.09
 // @author       DEMENT0R
 // @downloadURL  https://github.com/DEMENT0R/SteamSaleHelper/raw/master/SSH.user.js
 // @updateURL    https://github.com/DEMENT0R/SteamSaleHelper/raw/master/SSH.user.js
@@ -32,11 +32,9 @@
             document.querySelector('.next_in_queue_content').click();
         }
         //skip adult content
-        /*
-        if(document.querySelector('#XXX')){
-            document.querySelector('#XXX').click();
+        if(document.querySelector('.btn_next_in_queue_trigger')){
+            document.querySelector('.btn_next_in_queue_trigger').click();
         }
-        */
         //error code skip
         if(document.querySelector('.error-code')){
             window.location.reload();
