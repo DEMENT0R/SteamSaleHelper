@@ -20,7 +20,7 @@
 (function() {
     'use strict';
 
-    setTimeout(fullCicle, 1000);
+    setTimeout(fullCicle, 2000);
 
     function fullCicle(){
         //start
